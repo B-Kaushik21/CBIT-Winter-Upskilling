@@ -28,7 +28,7 @@ Bird-Detection-From-Bird-Chirping/
 
 ```bash
 git clone https://github.com/B-Kaushik21/Bird-Detection-From-Bird-Chirping.git
-cd CBIT-Winter-Upskilling
+cd Bird-Detection-From-Bird-Chirping
 ```
 
 Or manually:
