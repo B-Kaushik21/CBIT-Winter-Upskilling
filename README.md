@@ -7,7 +7,7 @@ This project focuses on detecting bird species from chirping audio recordings us
 ## 📁 Project Structure
 
 ```
-CBIT-Winter-Upskilling/
+Bird-Detection-From-Bird-Chirping/
 ├── WUS-BirdDetectionFromBirdChirping-colab.ipynb
 ├── README.md
 ```
@@ -27,7 +27,7 @@ CBIT-Winter-Upskilling/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/B-Kaushik21/CBIT-Winter-Upskilling.git
+git clone https://github.com/B-Kaushik21/Bird-Detection-From-Bird-Chirping.git
 cd CBIT-Winter-Upskilling
 ```
 
